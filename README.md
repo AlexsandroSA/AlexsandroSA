@@ -1,7 +1,11 @@
 ### Hey, I'm Alexsandro Silva Alves 👋🏽
 
-#### I’m tech Lead / Front-End Engineer
+#### I’m a Tech Lead / Front-End Engineer
 
-Living in Brazil working on Thoughtworks focused on supporting and developing new leaders, empowering teams, simplifying workflows, and delivering the highest quality business value.
+Living in Brazil and working on Thoughtworks focused on supporting and developing new leaders, empowering teams, simplifying workflows, and delivering the highest quality business value.
 
+#### Find me elsewhere
 
+Thank you for the visit! Feel free to contact me regarding any kind of projects or collaborations, or if you just want to say hello.
+
+Find me on [Linkedin ↗](https://www.linkedin.com/in/alexsandrosa) or [site ↗](https://alexsandro-sa.com.br/).
