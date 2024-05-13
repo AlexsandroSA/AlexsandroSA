@@ -4,8 +4,6 @@
 
 Living in Brazil and working on Thoughtworks focused on supporting and developing new leaders, empowering teams, simplifying workflows, and delivering the highest quality business value.
 
-#### Find me elsewhere
+Feel free to contact me regarding any kind of projects or collaborations, or if you just want to say hello.
 
-Thank you for the visit! Feel free to contact me regarding any kind of projects or collaborations, or if you just want to say hello.
-
-Find me on [Linkedin ↗](https://www.linkedin.com/in/alexsandrosa) or [site ↗](https://alexsandro-sa.com.br/).
+Find me on [Linkedin ↗](https://www.linkedin.com/in/alexsandrosa) or [Site ↗](https://alexsandro-sa.com.br/).
