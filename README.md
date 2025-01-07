@@ -2,8 +2,8 @@
 
 #### I’m a Tech Lead | Staff Frontend Engineer
 
-Living in Brazil and working on Thoughtworks focused on supporting and developing new leaders, empowering teams, simplifying workflows, and delivering the highest quality business value.
+Based in Brazil, I work at Thoughtworks where I focus on developing leaders, empowering teams, streamlining workflows, and delivering exceptional business value. 
 
-Feel free to contact me regarding any kind of projects or collaborations, or if you just want to say hello.
+I'm open to collaborations and new projects. 
 
-Find me on [Linkedin ↗](https://www.linkedin.com/in/alexsandrosa) or [Site ↗](https://alexsandro-sa.com.br/).
+Feel free to reach out [Linkedin ↗](https://www.linkedin.com/in/alexsandrosa) or [Site ↗](https://alexsandro-sa.com.br/).
